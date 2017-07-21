@@ -1,10 +1,10 @@
 <?php
 require_once('includes/bitly.inc.php');
-$client_id = '2f4b1eb5beb9b615ac70b16e34daf4bc6b899112';
-$client_secret = '149e58cfb3f5d508386822be40afc8ce75ca1c26';
-$user_access_token = 'c041ec00cdfa5cefe8bda46afaa996bb038527a4';
-$user_login = 'greyzer0';
-$user_api_key = 'bfb71a18779eaa3e6fe3618d44f8c9e5e150aa9d';
+$client_id = '';
+$client_secret = '';
+$user_access_token = '';
+$user_login = '';
+$user_api_key = '';
 
 $params['access_token'] = $user_access_token;
 $params['longUrl'] = 'http://google.com';
