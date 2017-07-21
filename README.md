@@ -7,7 +7,7 @@ The web application was written couple of years ago, and it is badly written. Lo
 
 It is not finished though, I got bored and I left it.
 
-THINGS TO CHANGE OR ADD:
+<b>THINGS TO CHANGE OR ADD:</b>
   * Input sanitization before inserting to the mysql database to prevent sql injections, xss and all of the other nasty stuff.
   * Saperate front-end templates from php. Kinda MVC style.
   * Adding a better code editor.
