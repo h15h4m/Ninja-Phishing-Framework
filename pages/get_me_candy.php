@@ -10,6 +10,7 @@ $ip_address    = @detect_ip_address_2();
 $user_agent    = @$_SERVER['HTTP_USER_AGENT'];
 $http_referer  = @$_SERVER['HTTP_REFERER'];
 
+echo ">>>>>"+ $username+" : "+$password; 
 
 //
 // replacing the empty field with --
